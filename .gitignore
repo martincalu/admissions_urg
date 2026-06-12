@@ -5,6 +5,8 @@
 *.pem
 *.xlsx
 *.pptx
+*.csv
+*.json
 .ipynb_checkpoints
 
 # local env files
